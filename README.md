@@ -2,15 +2,8 @@
 
 ###
 
-<p align="left">My name is Sophie and I'm a first-year student at the University of Waterloo :)</p>
+<p align="left">My name is Sophie and I'm a first-year engineering student at the University of Waterloo :)</p>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2007?<br>📚 I'm currently learning C++!<br>🎯 Goals: Make a personal website...<br>🎲 Fun fact: I have a Scratch game with 30,000+ views!!</p>
 
 ###
 
